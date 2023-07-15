@@ -242,7 +242,7 @@ python /path/to/the/Application.py
 ```
 # License
 
-Copyright (c) 2023 Het Kalal
+Copyright (c) 2023 Jinit Dave 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
